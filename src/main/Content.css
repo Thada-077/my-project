@@ -1,0 +1,22 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.img {
+  width: 500px;
+  height: 500px;
+}
+.card {
+  width: 1000px;
+  height: 70%;
+}
+
+@media screen and (max-width: 480px) {
+  .content-con {
+    flex-direction: column;
+  }
+  .content-con:nth-child(2) .content-r {
+    order: 1;
+  }
+}

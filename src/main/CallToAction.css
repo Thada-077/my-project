@@ -1,0 +1,61 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.cta-bg {
+  background: url(https://media.istockphoto.com/photos/confidence-and-success-picture-id1302147863?b=1&k=20&m=1302147863&s=170667a&w=0&h=v0d9_Lz_uSM0TRikY5l1oAIvrck_hVv3bh64J6C53ms=)
+    no-repeat;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+.cta-text {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 300px;
+  text-align: center;
+}
+.cta-text h2 {
+  margin: 0;
+}
+.FiCode {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.cta-btn {
+  background: #fff;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: #333;
+  border: 2px solid transparent;
+  transition: 0.3s;
+  margin-top: 1rem;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+.cta-btn:hover {
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+
+@media screen and (max-width: 480px) {
+  .cta-text {
+    padding: 0 2rem;
+  }
+}
