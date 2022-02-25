@@ -10,6 +10,7 @@ class Widecard extends Component {
           <h4 className="secondtext">
             {this.props.from} - {this.props.to}
           </h4>
+          <h4 className="secondtext">{this.props.source}</h4>
         </div>
       </div>
     );

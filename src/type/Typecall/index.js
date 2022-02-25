@@ -10,6 +10,7 @@ export default class Typecall extends Component {
         <div class="card ">
           <img src={img} />
           <div class="card-body ">
+            <h6 class="card-title">แหล่งที่มา : {detail}</h6>
             <h5 class="card-title">{name}</h5>
             <p class="card-text">{address}</p>
           </div>

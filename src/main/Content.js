@@ -10,6 +10,10 @@ function Content() {
           class="img-fluid rounded"
           alt="Responsive image"
         />
+        <h6>
+          แหล่งที่ :
+          https://images.unsplash.com/photo-1568691422807-4779ec50182b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+        </h6>
         <div class="body mt-5">
           <h5 class="title">ป่าชายเลน คือ</h5>
           <p class="text">
@@ -27,6 +31,7 @@ function Content() {
           class="img-fluid rounded"
           alt="Responsive image"
         />
+        <h6>แหล่งที่ : https://unsplash.com/photos/LEpilI_K4fs</h6>
         <div class="body mt-5">
           <h5 class="title">ป่าชายเลน คือ</h5>
           <p class="text">
@@ -48,6 +53,7 @@ function Content() {
           class="img-fluid rounded"
           alt="Responsive image"
         />
+        <h6>แหล่งที่ : https://forests51.wordpress.com/</h6>
         <div class="body mt-5">
           <h5 class="title">ต่อ</h5>
           <p class="text">
@@ -69,6 +75,10 @@ function Content() {
           class="img-fluid rounded"
           alt="Responsive image"
         />
+        <h6>
+          แหล่งที่ :
+          https://www.excise.go.th/cs/idcplg?IdcService=SS_QD_GET_RENDITION&coreContentOnly=1&dDocName=WEBPORTAL16200040369&dID=104001
+        </h6>
         <div class="body mt-5">
           <h5 class="title">ต่อ</h5>
           <p class="text">
@@ -95,6 +105,7 @@ function Content() {
           class="img-fluid rounded"
           alt="Responsive image"
         />
+        <h6>แหล่งที่ : https://www.saensukcity.com/ป่าชายเลยชลบุรี.html</h6>
         <div class="body mt-5">
           <h5 class="title">ต่อ</h5>
           <p class="text">

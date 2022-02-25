@@ -9,7 +9,7 @@ export default function Quiz() {
         { answerText: "ไม้ยืนต้น", isCorrect: false },
         { answerText: "ไม้พลัดใบ", isCorrect: false },
         { answerText: "ไม้โกงกาง", isCorrect: true },
-        { answerText: "ไม่ไม่ผลัดใบ", isCorrect: false },
+        { answerText: "ไม้ไม่ผลัดใบ", isCorrect: false },
       ],
     },
     {

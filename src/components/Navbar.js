@@ -36,7 +36,7 @@ class Navbar extends Component {
             activenav={this.activeitem}
           ></Naviteams>
           <Naviteams
-            item="Vedio"
+            item="Video"
             tolink="/education"
             activenav={this.activeitem}
           ></Naviteams>

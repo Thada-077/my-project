@@ -5,12 +5,13 @@ class Education extends Component {
   render() {
     return (
       <div className="condiv">
-        <h1 className="subtopic">Vedio</h1>
+        <h1 className="subtopic">Video</h1>
         <Widecard
           title="ชื่อ : สารคดี สำรวจโลก ตอน สีสันแห่งป่าชายเลน"
           where="ช่อง : Next Step"
           from="ปี : 2020"
           to="Present"
+          source="ที่มา : https://www.youtube.com/embed/4ZJAc6F2284"
         />
         <div class="ratio ratio-16x9">
           <iframe
@@ -24,6 +25,7 @@ class Education extends Component {
           where="ช่อง : JoCho Sippawat"
           from="ปี : 2020"
           to="Present"
+          source="ที่มา : https://www.youtube.com/embed/0klEwyyhTm4"
         />
         <div class="ratio ratio-16x9">
           <iframe
@@ -37,6 +39,7 @@ class Education extends Component {
           where="ช่อง : Areerat Sripoom"
           from="ปี : 2011"
           to="Present"
+          source="ที่มา : https://www.youtube.com/embed/EryesMq6-ig"
         />
         <div class="ratio ratio-16x9">
           <iframe
