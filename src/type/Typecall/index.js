@@ -7,7 +7,7 @@ export default class Typecall extends Component {
 
     return (
       <div className="type">
-        <div class="card ">
+        <div class="card shadow-lg p-3 mb-5 bg-body rounded">
           <img src={img} />
           <div class="card-body ">
             <h6 class="card-title">แหล่งที่มา : {detail}</h6>

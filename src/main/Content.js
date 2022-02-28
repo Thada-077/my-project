@@ -120,6 +120,116 @@ function Content() {
           <hr></hr>
         </div>
       </div>
+
+      <div class="box1 mt-5 mb-5">
+        <h2 class="title text-danger ">
+          ปัญหาสาเหตุ และผลกระทบจากการทำลายป่าชายเลน
+        </h2>
+        <br></br>
+        <img
+          src="https://www.77kaoded.com/wp-content/uploads/IMG_5639.jpg"
+          class="img-fluid rounded"
+          alt="Responsive image"
+        />
+        <h6>แหล่งที่ : https://www.77kaoded.com/news/anothai-ngandee/582656</h6>
+        <div class="body mt-5">
+          <div class="accordion" id="accordionPanelsStayOpenExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingOne">
+                <button
+                  class="accordion-button"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panelsStayOpen-collapseOne"
+                  aria-expanded="true"
+                  aria-controls="panelsStayOpen-collapseOne"
+                >
+                  ปัญหา
+                </button>
+              </h2>
+              <div
+                id="panelsStayOpen-collapseOne"
+                class="accordion-collapse collapse show"
+                aria-labelledby="panelsStayOpen-headingOne"
+              >
+                <div class="accordion-body">
+                  พื้นที่ป่าชายเลนลดลงอย่างต่อเนื่องเกิดจากสาเหตุหลายประการร่วมกัน
+                  ที่สำคัญคือ การ ขยายตัวของประชากร ทำให้มีการพัฒนากิจกรรมต่างๆ
+                  มากมาย ที่สำคัญคือ การประมงและการเพาะเลี้ยง สัตว์น้ำ
+                  โดยเฉพาะการทำนากุ้ง การทำเหมืองแร่ การเกษตรกรรม
+                  การขยายตัวของแหล่งชุมชน การสร้าง ท่าเทียบเรือ
+                  การสร้างถนนและสายส่งไฟฟ้า การอุตสาหกรรมและโรงงานไฟฟ้า
+                  การขุดลอกร่องน้ำ การทำนา เกลือ การตัดไม้เกินกำลังการผลิตของป่า
+                  และกิจกรรมอื่น
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panelsStayOpen-collapseTwo"
+                  aria-expanded="false"
+                  aria-controls="panelsStayOpen-collapseTwo"
+                >
+                  สาเหตุ
+                </button>
+              </h2>
+              <div
+                id="panelsStayOpen-collapseTwo"
+                class="accordion-collapse collapse"
+                aria-labelledby="panelsStayOpen-headingTwo"
+              >
+                <div class="accordion-body">
+                  หลายกิจกรรมเกิดขึ้นในพื้นที่ป่าชายเลนเป็นเพราะเห็นว่าการใช้ประโยชน์ในพื้นที่ป่าชาย
+                  เลน ทำให้ช่วยลดต้นทุนในการประกอบการ
+                  เพราะป่าชายเลนเป็นพื้นที่ป่าสงวนมีกฎหมายและระเบียบ
+                  ข้อบังคับไม่รัดกุม ทำให้มีผู้บุกรุกจำนวนมาก
+                  และการจับกุมทำได้ไม่ทั่วถึง สิ่งที่เกิดขึ้นนี้ สืบเนื่องมาจาก
+                  ความรู้ความเข้าใจเกี่ยวกับป่าชายเลนยังไม่เพียงพอและยังไม่ถูกต้องนักในกลุ่มบุคคลระดับต่างๆ
+                  ทำให้ไม่ เห็นความสำคัญของป่าชายเลน
+                  เป็นผลให้การใช้ประโยชน์ป่าชายเลนเป็นไปอย่างไม่เหมาะสม
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#panelsStayOpen-collapseThree"
+                  aria-expanded="false"
+                  aria-controls="panelsStayOpen-collapseThree"
+                >
+                  ผลกระทบ
+                </button>
+              </h2>
+              <div
+                id="panelsStayOpen-collapseThree"
+                class="accordion-collapse collapse"
+                aria-labelledby="panelsStayOpen-headingThree"
+              >
+                <div class="accordion-body">
+                  การเปลี่ยนแปลงพื้นที่ป่าชายเลนดังกล่าวทำให้เกิดผลกระทบต่อระบบนิเวศป่าชายเลน
+                  หลายประการ เช่น อุณหภูมิน้ำสูงขึ้น ปริมาณธาตุอาหารลดลง
+                  ความเค็มเพิ่มขึ้น น้ำขุ่นข้น มีปริมาณสารพิษ ในน้ำ
+                  เกิดการพังทลายของดิน มีการเปลี่ยนแปลงชนิด
+                  ปริมาณและลักษณะโครงสร้างของพืชและสัตว์น้ำ ที่
+                  สำคัญคือมีผลกระทบต่อความสมดุลของระบบนิเวศในป่าชายเลนและระบบนิเวศอื่นในบริเวณชายฝั่งและ
+                  ใกล้เคียงป่าชายเลน
+                  ซึ่งจะส่งผลกระทบไปถึงเศรษฐกิจและประชาชนและของประเทศโดยรวม
+                  และยากที่จะ
+                  ฟื้นฟูให้กลับเป็นป่าชายเลนที่อุดมสมบูรณ์เหมือนเดิมได้แม้จะต้องใช้เงินลงทุนมหาศาล
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr></hr>
+        </div>
+      </div>
     </div>
   );
 }

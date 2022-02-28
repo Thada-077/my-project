@@ -310,3 +310,8 @@ body {
     opacity: 0.4;
   }
 }
+.condiv {
+  background-image: url(https://designshack.net/wp-content/uploads/STDS-11.jpg);
+  background-repeat: repeat;
+  background-size: "cover";
+}
